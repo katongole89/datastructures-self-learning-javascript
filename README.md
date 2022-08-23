@@ -8,3 +8,5 @@ Hash Tables.
 Trees. 
 Heaps. 
 Graphs.
+
+Note: All index files contain basics of a given structure
