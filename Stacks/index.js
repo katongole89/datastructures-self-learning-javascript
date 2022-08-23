@@ -22,6 +22,7 @@ let letters = []
 let word = 'racecar'
 let rword = ""
 
-for (const s of str) {
+for (const s of word) {
   console.log(s)
+  letters.push(s)
 }
